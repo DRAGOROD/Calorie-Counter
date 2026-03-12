@@ -1,6 +1,6 @@
 The Calorie Counter is a simple web application that helps users track their daily calorie intake and expenditure. Users can set a daily calorie budget, add food items for different meals, and log exercise activities. The app calculates the total calories consumed, calories burned through exercise, and displays whether the user is in a calorie surplus or deficit.
 
-**⭐Project Link:-**
+**⭐Project Link:-** https://dragorod.github.io/Calorie-Counter/
 
 **🛠Toolkits**
 HTML
